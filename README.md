@@ -1,2 +1,0 @@
-# adyn-miles
-Personal Website
